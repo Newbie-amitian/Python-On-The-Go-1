@@ -2,7 +2,7 @@ print("Basic Calculator")
 print(
   "~ This is a console based calculator, where one can operate on two integers,\n operate on two floats & even operate on two complex numbers & their combinations."
 )
-input("Press Enter to Continue...")
+input("Press Enter to Continue..")
 
 while True:
   calculator_type = input(
